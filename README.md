@@ -10,7 +10,7 @@ I am a passionate and driven computer science graduate who strives to make my ma
 
 ### [Earth Impact Simulator](http://maxdeng.com/projects/earth-impact-simulator)
 
-![EIS](https://raw.githubusercontent.com/md842/webserver/refs/heads/main/frontend/public/earth-impact-simulator.png)
+![EIS](assets/eis_demo.gif)
 
 A physics simulation of the impact of a meteor striking Earth. By altering the initial parameters for the meteor's radius and velocity, the user can control the output of the simulation; the Earth's state post-collision ranges from unaffected to completely destroyed.
 
