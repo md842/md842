@@ -2,9 +2,9 @@
 
 I am a passionate and driven computer science graduate who strives to make my mark on the world through software engineering.
 
-- 🔭 I'm currently working on my [custom personal website](http://maxdeng.com/).
+- 🔭 I'm currently working on my [custom personal website](https://maxdeng.com/).
 - 📫 How to reach me: Send me an e-mail at maxdeng@ucla.edu.
-- ⚡ My full portfolio can be found at http://maxdeng.com/projects.
+- ⚡ My full portfolio can be found at https://maxdeng.com/projects.
 
 ## Featured Projects
 
