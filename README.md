@@ -2,13 +2,13 @@
 
 I am a passionate and driven computer science graduate who strives to make my mark on the world through software engineering.
 
-- 🔭 I'm currently working on [LOA Planner](https://github.com/md842/loa-planner), an ambitious all-in-one progression planning tool designed for the popular massively multiplayer online role-playing game Lost Ark. Targetting an initial release this week!
+- 🔭 I'm currently updating and maintaining [LOA Planner](https://loa-planner.vercel.app/) for over 1,000 weekly visitors! LOA Planner is an ambitious all-in-one progression planning tool designed for the popular massively multiplayer online role-playing game Lost Ark.
 - 📫 How to reach me: Send me an e-mail at maxdeng@ucla.edu.
 - ⚡ My full portfolio can be found at https://maxdeng.com/projects.
 
-## Featured Projects
+## Featured Project
 
-### [Earth Impact Simulator](http://maxdeng.com/projects/earth-impact-simulator)
+### [Earth Impact Simulator](https://maxdeng.com/projects/earth-impact-simulator)
 
 ![EIS](assets/eis_demo.gif)
 
@@ -39,6 +39,7 @@ This project showcases my skills in **JavaScript**, **CUDA**, and **OpenGL/WebGL
 ### Web Development
 ![FullStack](https://img.shields.io/badge/Full_Stack-323330?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/React_Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-323330?style=for-the-badge)
@@ -50,17 +51,19 @@ This project showcases my skills in **JavaScript**, **CUDA**, and **OpenGL/WebGL
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-323330?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-323330?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-323330?style=for-the-badge)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### DevOps
+
+![CI/CD](https://img.shields.io/badge/CI/CD-323330?style=for-the-badge)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Other
 Mandarin Chinese (speaking, reading, and writing), Computer System Building/Repair
